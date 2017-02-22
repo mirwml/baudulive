@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">baiduyunLive</string>
+    <string name="dialog_enter">确认</string>
+    <string name="dialog_cancel">取消</string>
+    <string name="dialog_title">确认您的选择</string>
+    <string name="dialog_content">退出程序?</string>
+</resources>
